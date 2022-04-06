@@ -35,3 +35,19 @@ a {
   float: left;
   padding: 33px 20px;
 }
+
+.top {
+  margin:100px 80px;
+}
+
+.top h1 {
+  font-size: 140px;
+}
+
+.red {
+  color: #ff4a4a;
+}
+
+.top h2 {
+  font-size: 60px;
+}
