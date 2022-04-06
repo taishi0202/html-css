@@ -51,3 +51,24 @@ a {
 .top h2 {
   font-size: 60px;
 }
+
+.contents {
+  height: 500px;
+  margin: 100px 80px;
+}
+
+.contents h3 {
+  font-size: 28px;
+  border-bottom: 2px solid #dee7ec;
+  padding-bottom: 15px;
+}
+
+.contents-list {
+  padding: 50px 40px 0 0;
+  float: left;
+}
+
+.contents-list p {
+  padding-top: 30px;
+  font-size: 24px;
+}
