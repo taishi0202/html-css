@@ -57,18 +57,37 @@ a {
   margin: 100px 80px;
 }
 
-.contents h3 {
-  font-size: 28px;
-  border-bottom: 2px solid #dee7ec;
-  padding-bottom: 15px;
-}
-
 .contents-list {
-  padding: 50px 40px 0 0;
+  padding: 0px 40px 0 0;
   float: left;
 }
 
 .contents-list p {
   padding-top: 30px;
   font-size: 24px;
+}
+
+.contact-form {
+  padding: 0px 80px 100px 80px;
+}
+
+.section-style {
+  font-size: 28px;
+  border-bottom: 2px solid #dee7ec;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+}
+
+input,textarea {
+  width: 400px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 20px;
+  border: 1px solid #dee7ec;
+  font-size: 18px;
+}
+
+.contact-submit {
+  background-color: #dee7ec;
+  color: #889eab;
 }
