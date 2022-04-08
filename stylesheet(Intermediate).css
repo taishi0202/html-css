@@ -78,3 +78,38 @@ a {
 .fa {
   margin-right: 5px;
 }
+
+header {
+  height: 65px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 0.9);
+  position: fixed;
+  top: 0;
+  z-index: 5;
+}
+
+.header-logo {
+  float: left;
+}
+
+.logo {
+  width: 124px;
+  margin-top: 20px ;
+}
+
+.header-login {
+  float: right;
+  background-color: rgba(255, 255, 255, 0.3);
+  transition: all 0.5s;
+}
+
+.header-login:hover {
+  background-color:rgba(255, 255, 255, 0.5);
+}
+
+.header-login a {
+  line-height:65px;
+  padding:0 25px;
+  color:white;
+  display:block;
+}
