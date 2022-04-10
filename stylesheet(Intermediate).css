@@ -113,3 +113,39 @@ header {
   color:white;
   display:block;
 }
+
+.contents-wrapper {
+  height: 580px;
+  padding-top: 80px;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.heading {
+  color: #5f5d60;
+  font-weight: normal;
+  margin-bottom: 50px;
+}
+
+.content {
+  float: left;
+  width: 25%;
+}
+
+.content-icon {
+  position: relative;
+}
+
+.content-icon p {
+  color: white;
+  position: absolute;
+  top: 90px;
+  width: 100%;
+}
+.text-contents {
+  color: #b3aeb5;
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 13px;
+  width: 80%;
+}
