@@ -178,3 +178,13 @@ header {
   top: 7px;
   box-shadow: none;
 }
+
+footer {
+  margin: 30px;
+  color: #b3aeb5;
+  border-top: solid 1px #eee;
+}
+
+.footer-text {
+  font-size: 12px;
+}
